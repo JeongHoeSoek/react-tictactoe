@@ -1,0 +1,10 @@
+.board-wrapper{
+  border: 1px solid rgbs(255,255,255, 0.1);
+  box-shadow: rgbs(0,0,0, 0.19);
+  border-radius: 9px;
+  overflow:hidden;
+}
+
+.status{
+  margin-bottom: 10px;
+}
